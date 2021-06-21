@@ -1,0 +1,15 @@
+Interprocess Communication
+
+Interprocess communication refers to the way processes communicate with each other.
+
+Processes executing concurrently in the operating system may either be cooperating or independent processes.
+
+There are two models for interprocess communication:
+
+1. Shared Memory
+    • A region of memory that is shared by cooperating processes is established.
+      
+    • Processes can communicate with each other by reading and writing data into the shared memory.
+      
+2. Message Passing.
+Communication takes place by means of messages exchanged between the communicating processes.
