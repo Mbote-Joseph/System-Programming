@@ -35,6 +35,7 @@ int main(void){
     printf("Sum = %d\n",*total);
     printf("Mean = %f\n",mean);
     printf("Standard Deviation = %f\n",*std_dev);
+    // The memory being destored
     // Free all allocated heap memory
     free(items);
     free(total);
