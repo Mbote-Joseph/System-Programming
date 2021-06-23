@@ -4,6 +4,7 @@
 #include <stdlib.h>
 
 int main(void){
+
     int n,sum=0;
     float standardDeviation =0.0, variance;
     printf("Enter the number of elements you want to enter :\n");
@@ -43,4 +44,4 @@ int main(void){
 
 
     
-}
+} 
