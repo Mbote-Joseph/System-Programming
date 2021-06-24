@@ -8,7 +8,7 @@ int main(){
     int k = 10;
     // Allocate space for k integers dynamically
     int *ptr = (int *)malloc(k*sizeof(int));
-
+// Out pute results
     printf("Created k=10 memory spaces for integers in heap memory. \n");
     free(ptr);
 }
