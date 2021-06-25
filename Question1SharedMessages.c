@@ -1,4 +1,4 @@
-/*Oliver Mugambi SCT211-0320/2018 CAT 2 Q-1b*/
+
 #include <sys/types.h>
 #include <stdio.h>
 #include <unistd.h>
